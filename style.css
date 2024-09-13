@@ -1,0 +1,42 @@
+#red {
+    border-top-color: #f00; /* Red */
+    border-top-width: 10px; /* Adjust the thickness */
+    border-top-style: solid;
+  }
+  
+  #orange {
+    border-top-color: #ffa500; /* Orange */
+    border-top-width: 10px;
+    border-top-style: solid;
+  }
+  
+  #yellow {
+    border-top-color: #ff0; /* Yellow */
+    border-top-width: 10px;
+    border-top-style: solid;
+  }
+  
+  #green {
+    border-top-color: #008000; /* Green */
+    border-top-width: 10px;
+    border-top-style: solid;
+  }
+  
+  #blue {
+    border-top-color: #00f; /* Blue */
+    border-top-width: 10px;
+    border-top-style: solid;
+  }
+  
+  #indigo {
+    border-top-color: #4b0082; /* Indigo */
+    border-top-width: 10px;
+    border-top-style: solid;
+  }
+  
+  #violet {
+    border-top-color: #ee82ee; /* Violet */
+    border-top-width: 10px;
+    border-top-style: solid;
+  }
+  
